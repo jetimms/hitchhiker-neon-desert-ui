@@ -1,27 +1,14 @@
-# Atom UI Theme Template
+# Hitchhiker Neon Desert Atom Editor UI Theme
 
-This is a __starter template__ for creating an Atom UI theme.
+With this theme the hope is to recreate a dark theme that provides a dark gray
+base background color along with pastels (or neon colors) for highlighting.
 
-This template only includes the __minimum of styling__ needed and comes with a neutral look. It could already be used as a real theme, but its purpose is to serve as a basis for creating your own theme. It is documented throughout and invites you to make changes to your liking. For some inspiration take a look at other Atom themes at [atom.io/themes](https://atom.io/themes/). Or you're always free to fork a theme that already comes close to your vision.
+I find it a good UI theme for editing during periods of light-sensitivity from migraines.
 
-Happy theming! 🚀
+The name is a homage of Douglas Adams' Hitchhikers Guide to the Galaxy. When an
+associate and I were experimenting with a different editor's dark theme
+settings (many years ago) we decided that choosing the number 42 in
+rgb(42, 42, 42) would suffice nicely. We proceeded to replicate this idea
+throughout all of our systems' editable interfaces.
 
-
-## Getting started
-
-1. Fork this repository.
-2. Continue with step 2 from [Creating a UI Theme](http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/#creating-a-ui-theme)
-
-If you get stuck somewhere, feel free to create an [issue](https://github.com/atom-community/ui-theme-template/issues/new).
-
-ps. Don't forget to delete the above and edit the below in your own `README.md`.
-
-
----
-
-
-# My UI theme
-
-A short description of your theme.
-
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+I hope to replicate such a theme here.
