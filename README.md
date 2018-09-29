@@ -1,14 +1,7 @@
-# Hitchhiker Neon Desert Atom Editor UI Theme
+# Hitchhiker Neon Desert UI Theme
 
-With this theme the hope is to recreate a dark theme that provides a dark gray
-base background color along with pastels (or neon colors) for highlighting.
+This package will provide a dark Atom UI theme with pastels for a not-so-stark, high contrast by utilizing dark gray base background color along with pastels (or neon colors) for highlighting and selections.
 
-I find it a good UI theme for editing during periods of light-sensitivity from migraines.
+It is based one the One Dark UI Theme.
 
-The name is a homage of Douglas Adams' Hitchhikers Guide to the Galaxy. When an
-associate and I were experimenting with a different editor's dark theme
-settings (many years ago) we decided that choosing the number 42 in
-rgb(42, 42, 42) would suffice nicely. We proceeded to replicate this idea
-throughout all of our systems' editable interfaces.
-
-I hope to replicate such a theme here.
+The name gives homage of Douglas Adams' Hitchhikers Guide to the Galaxy due to the use of universally significant number 42 in the base background color of rgb(42, 42, 42), or hitchhiker gray.
